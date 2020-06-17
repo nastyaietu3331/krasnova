@@ -1,0 +1,53 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "surname": "Иванов",
+      "name": "Иван",
+      "patronymic": "Сергеевич",
+      "department": "It"
+    },
+    {
+      "id": 2,
+      "surname": "Петров",
+      "name": "Кузьма",
+      "patronymic": "Алексеевич",
+      "department": "HR"
+    },
+    {
+      "surname": "Сираев ",
+      "name": "Денис",
+      "patronymic": "Ильдарович",
+      "department": "Sales",
+      "id": 3
+    },
+    {
+      "surname": "ewq",
+      "name": "qwe",
+      "patronymic": "wqe",
+      "department": "",
+      "id": 4
+    },
+    {
+      "surname": "injk",
+      "name": "lkmlk",
+      "patronymic": "l ",
+      "department": "kno",
+      "id": 5
+    },
+    {
+      "surname": "Петров ",
+      "name": "Алексей ",
+      "patronymic": "Иванович",
+      "department": "Закупки",
+      "id": 6
+    },
+    {
+      "surname": "Сидоров",
+      "name": "Сидр",
+      "patronymic": "Алексеевич",
+      "department": "HR",
+      "id": 7
+    }
+  ]
+}
